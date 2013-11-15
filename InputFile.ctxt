@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=in
+comment0.target=InputFile(java.lang.String)
+comment1.params=
+comment1.target=java.util.List\ getTheFile()
+comment2.params=num
+comment2.target=void\ printDotLoad(int)
+comment3.params=
+comment3.target=void\ readInFile()
+comment4.params=list
+comment4.target=void\ writeToFile(java.util.ArrayList)
+comment5.params=text
+comment5.target=void\ outPrintln(java.lang.String)
+comment6.params=text
+comment6.target=void\ outPrint(java.lang.String)
+numComments=7
